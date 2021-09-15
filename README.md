@@ -1,2 +1,1 @@
-# hugo
- hugo blog site
+# hugorepo
