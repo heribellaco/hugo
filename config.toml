@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://hopeful-bose-cd2fc5.netlify.app/"
 languageCode = "en-us"
-title = "KUG | Keratoconus Health Blog"
+title = "KUG | Keratoconus Blog"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
