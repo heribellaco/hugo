@@ -53,7 +53,7 @@ For color, I usually pick a clear blue color and the sound is a buzzing energy s
 
 * * *
 
-<!-- {{<audio src="healthy_eyes.mp3" caption="Healthy Eyes Healing Meditation" >}} -->
+{{<audio src="healthy_eyes.mp3" caption="Healthy Eyes Healing Meditation" >}}
 
 * * *
 #### Bibliography ####
