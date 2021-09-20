@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://skipper-cocker-spaniel.netlify.app/"
+baseURL = "https://keratoconusguide.com/"
 languageCode = "en-us"
 title = "KUG | Keratoconus Health Blog"
 theme = "liva-hugo"
