@@ -23,11 +23,11 @@ type: "blog"
 Scleral Lenses
 --------------
 
-For _Keratoconus Health_, the _advanced_ patient has a final option called *Scleral lenses*; they help people that have become intolerant to other corneal lenses due to _keratoconus_. New designs and materials make these lenses special and with proper management, you can adapt to them quickly. If you try them, Scleral lenses are probably the last option for us with advanced _keratoconus,_ before the use of other more drastic measures.
+The keratoconus _advanced_ patient has a great option called *Scleral lenses*; they help people that have become intolerant to other corneal lenses. New designs and materials make these lenses better every day  and with proper management, you can adapt to them quickly. If you try them, Scleral lenses are probably the last option for us with advanced _keratoconus,_ before the use of other more drastic measures.
 
 ### Caracteristics
 
-Sclerals are different from corneal lenses. The insertion and removing procedure is more complicated, especially the removing, and the eye has to adapt to the lens anyway, this lenses are bigger than corneal lenses and they get support in the white part of your eye called the Sclera. You never had any object touching this area, so you must adapt to that.
+Sclerals are different than corneal lenses in some aspects. The insertion and removing procedure is more complicated, especially the removing, and the eye has to adapt to the lens anyway, this lenses are bigger than corneal lenses and they get support in the white part of your eye called the Sclera. You never had any object touching this area, so you must adapt to that.
 
 ### Problems and Advantages
 
@@ -38,8 +38,6 @@ Many people say that sclerals get foggy issues, I have never had that problem. I
 Get more info at:
 
 [Scleral Lens Education Society](https://sclerallens.org/)
-
-[www.keratoconusguide.com](https://www.keratoconusguide.com)
 
 ### Conclusion
 
