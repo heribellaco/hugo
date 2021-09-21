@@ -9,10 +9,10 @@ description: "this is meta description"
 # type
 type : "contact"
 ---
-Hire me for your projects, I can help you build a website like this with WordPress or a ststic site with Hugo.
+Hire me for your projects, I can help you build a website with WordPress or a static website.
 
 I do SEO and Google Ads, know HTML, CSS and general programming skills.
 
-I write content in both English,Spanish and French, and translate between them. I can do voice-over and edit and process your audio & podcasts.
+I write content in both English, Spanish and French, and translate between them. I can do voice-over and edit and process your audio & podcasts.
 
 leave me a message at: hrangelm@gmail.com
