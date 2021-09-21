@@ -23,9 +23,9 @@ type: "post"
 Keratoconus overview
 --------------------
 
-Keratoconus from Greek: _kerato_ (horn, cornea), and _konos_ cone. Is a condition of the cornea; the cornea is a lens whose primary function is to focus the light rays from our environment into the vitreous humor and finally the retina in the back of our eye.
+Keratoconus from Greek: _kerato_ (horn, cornea), and _konos_ cone. Is a condition of the cornea; the cornea is a lens whose primary function is to focus the light rays from our environment the retina in the back of our eye.
 
-In the retina, there are receptors called rods and cones that send information about light and color through the optical nerve to the brain.
+In the retina, there are receptors called _rods_ and _cones_ that send information about light and color through the optical nerve to the brain.
 
 In the brain, this information is processed and an image is formed, so in reality, we see with our eyes and with our brain.
 
@@ -67,7 +67,7 @@ The aqueous humor or fluid is produced mainly in the ciliary process contained i
 
 ### What causes keratoconus?
 
-_It is not known what causes keratoconus_: there is a belief that it has a genetic origin because people of the same family with keratoconus have been reported, or that it is secondary to some disease process.
+__It is not known what causes keratoconus__: there is a belief that it has a genetic origin because people of the same family with keratoconus have been reported, or that it is secondary to some disease process.
 
 ### Keratoconus Types of cones
 
@@ -77,13 +77,15 @@ _**Globus** **cone**_. - _keratoglobus_, more than 6mm and hard to fit.
 
 ### Contact Lenses
 
-Contact lenses work by replacing the irregular surface of the cornea with the more correct shape of the lens so that the light rays are properly focused.
+>Contact lenses work by replacing the irregular surface of the cornea with the more correct shape of the lens so that the light rays are properly focused.
 
 In the preliminary stages of the disease, the refraction error can be corrected with glasses or soft contact lenses.
 
 Later with increased astigmatism, _toric_ soft contact lenses work for a while, but gradually rigid permeable gas contact lenses (RGP’s) are necessary to correct the distorted cornea and obtain acceptable vision.
 
-int this keratoconus overview we have talked about the cornea and contact lenses read more on the post: [_what it is keratoconus._](https://www.keratoconusguide.com/what-is-keratoconus/)
+Read more on the post: [_what it is keratoconus._](https://www.keratoconusguide.com/what-is-keratoconus/)
+
+* * *
 
 1 David R. Whikehart. Biochemistry of the eye. 2nd ed. Butterworth-Heinemann, 2003:9-10.
 
