@@ -14,7 +14,7 @@ type : "about"
 ---
 
 Hi There!
-My name is Heriberto. I have keratoconus and have become very interested in this condition.
+I have keratoconus and have become very interested in this condition.
 I feel that when I take care of my body, I feel better, have more energy and my lens comfort and vision improves.
 
 I have had several contact lens fittings over the years. What about you? Maybe you are looking for an alternative way of seeing things, if that is true you are in the right place, enjoy and try my ideas and Welcome!
