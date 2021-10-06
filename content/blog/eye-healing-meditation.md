@@ -27,7 +27,7 @@ You can think of health as a state of "**harmony"** between the different parts 
 
 ### What is this guided eye healing meditation?
 
-This guided eye healing meditation is based in a Nero-Linguistic Programming (**NLP**) strategy discovered by studying the creative thinking process of Wolfgang Amadeus Mozart and applied it to help cure disease. This strategy is taken from Robert Dilts excellent book Beliefs\*.
+This guided eye healing meditation is based in a Nero-Linguistic Programming (**NLP**) strategy discovered by studying the creative thinking process of Wolfgang Amadeus Mozart and applied it to help cure disease. This strategy is taken from Robert Dilts excellent book \**Beliefs\**.
 
 This is a guided meditation which means you are going to listen to my voice, relax and imagine a color you like, a smell you adore, and also a sound that attracts you.
 
