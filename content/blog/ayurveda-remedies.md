@@ -37,7 +37,9 @@ Keratoconus treatment in Ayurveda would be indirect: Improving digestion (_incre
 
 These Ayurveda remedies are highly recommended, I have used the powdered herb form for many years and I haven't had any problems.
 
-These Indian herbs are _**Tumeric, Triphala, and Ashwagandha**_.
+These Indian herbs are _**Tumeric, Triphala, and Ashwagandha**_ are shown below.
+
+![image](../../images/ayurveda2.jpg)
 
 #### Turmeric
 
