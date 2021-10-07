@@ -79,10 +79,11 @@ disqusShortname = "keratoconusguide.disqus.com"
 
 #################### default parameters ################################
 [params]
+# logo = "images/kug_logo.png"
 home = "Home"
 # Meta data
 description = "Keratoconus health site"
-author = "Beto R"
+author = "Beto R."
 # Google Analitycs
 googleAnalitycsID = "UA-96831082-1"
 # Contact Information
