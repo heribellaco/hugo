@@ -59,6 +59,11 @@ disqusShortname = "keratoconusguide.disqus.com"
   URL = "contact"
   weight = 3
 
+  [[menu.main]]
+  name = "Assets"
+  URL = "assets"
+  weight = 4
+
   # footer menu
   [[menu.footer]]
   name = "About"
