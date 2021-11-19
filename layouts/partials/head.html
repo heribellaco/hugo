@@ -17,6 +17,8 @@
   {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.ico` | absURL }} " type="image/x-icon">
