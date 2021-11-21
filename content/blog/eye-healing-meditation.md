@@ -4,7 +4,7 @@ date: 2019-09-16T18:11:54+00:00
 draft: false
 
 # post thumb
-image: "images/phone_kug_small.png"
+image: "images/girl_meditating.jpg"
 
 # meta description
 description: "this is meta description"
