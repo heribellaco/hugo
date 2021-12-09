@@ -7,7 +7,7 @@ draft: false
 image: "images/B2_pills.jpg"
 
 # meta description
-description: "Easy keratoconus natural Crosslinking treatment, by consuming vitamin B2 orally and getting exposure to infrared sunlight by going outdoors."
+description: "Keratoconus natural crosslinking treatment, by consuming vitamin B2 orally and getting exposure to infrared sunlight by going outdoors."
 
 # taxonomies
 categories: 
