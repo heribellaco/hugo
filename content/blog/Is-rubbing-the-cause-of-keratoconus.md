@@ -49,9 +49,7 @@ The shape of the cornea is a result of the balance between external and internal
 
 ### Conclusion
 
->Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. We don't know, and it is impossible to prove; but we have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also sleep on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future. If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news.
-
-Also, modern advances in technology give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
+>Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. It is obvious that not all people who rub their eyes develop keratoconus, it is an idiopathic process, we really don't know its origin. We have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also nap on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future. If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news. Also, modern advances in technology give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
 
 -----------
 
