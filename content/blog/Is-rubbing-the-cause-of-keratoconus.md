@@ -41,15 +41,19 @@ Have you heard the phrase? "The best explanations are the simplest ones." This i
 
 The phrase *"correlation does not imply causation"* (Wikipedia, 2021) refers to the inability to deduce a cause-and-effect relationship between two events; this events occurring together are taken to have a cause-and-effect relationship, solely based on an observed association. Statistical methods are normally used as the basis for testing hypotheses.
 
- Eye rubbing and allergies have been linked to keratoconus by correlation, however when two things are correlated it is tempting to think they are caused directly. The idea presented in this essay and by **Dr Demian Gatinel**, is that eye rubbing and keratoconus have a direct causative link, not just a statistical correlation.
+ When two things are correlated it is tempting to think they are caused directly. Eye rubbing and allergies have been linked to keratoconus by correlation.
+
+> The idea presented in this essay and by **Dr Demian Gatinel**, is that eye rubbing and keratoconus have a direct causative link, not just a statistical correlation.
 
 ### What rubbing does?
 
 The shape of the cornea is a result of the balance between external and internal forces applied to the eye and the biomechanical resistance of the cornea. Rubbing the eyes increases the production of enzymes called proteases, these enzymes degrade proteins causing an attack on normal tissues and altering the corneal shape and resistance. Constant eye rubbing results in the progressive deformation and thinning that are hallmarks of the disease labeled keratoconus.
 
+![keratoconus pathogenesis](../../images/post/kcpathogenesis.png)
+
 ### Conclusion
 
->Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. It is obvious that not all people who rub their eyes develop keratoconus, it is an idiopathic process, we really don't know its origin. We have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also nap on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future. If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news. Also, modern advances in technology give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
+>Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. It is obvious that not all people who rub their eyes develop keratoconus, it is an idiopathic process (we don't really know its origin). We have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also nap on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future. If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news. Also, modern advances in technology give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
 
 -----------
 
