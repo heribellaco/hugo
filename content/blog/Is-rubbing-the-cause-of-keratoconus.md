@@ -43,7 +43,7 @@ The phrase *"correlation does not imply causation"* (Wikipedia, 2021) refers to 
 
  When two things are correlated it is tempting to think they are caused directly. Eye rubbing and allergies have been linked to keratoconus by correlation.
 
-> The idea presented in this essay and by **Dr Demian Gatinel**, is that eye rubbing and keratoconus have a direct causative link, not just a statistical correlation.
+> The idea presented in this essay and by **Dr. Damien Gatinel**, is that eye rubbing and keratoconus have a direct causative link, not just a statistical correlation.
 
 ### What rubbing does?
 
