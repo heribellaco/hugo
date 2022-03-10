@@ -33,9 +33,11 @@ Why rubbing your eyes? We do it when we wake up, before sleeping and when we are
 
 ### Occam’s razor
 
-Have you heard the phrase? "The best explanations are the simplest ones." This is commonly called *"The occam razor."* (Wikipedia, 2021) This idea is frequently attributed to English Franciscan friar **William of Ockham** (c. 1287–1347), a scholastic philosopher and theologian. In The Summa Theologica of Thomas Aquinas (1225–1274) states that *"it is superfluous to suppose that what can be accounted for by a few principles has been produced by many."*
+Have you heard the phrase? "The best explanations are the simplest ones." This is commonly called *"The occam razor."* (Wikipedia, 2021) This idea is frequently attributed to English Franciscan friar **William of Ockham** (c. 1287–1347), a scholastic philosopher and theologian.
 
- Most of the time we imagine that the answers are complicated and difficult to find. We let our biases dictate how we see a situation and react like in the past; however, it is useful to take a step back and see the situation in a new light. When we do this, the answer comes to us in a moment of inspiration, we just did not see it before.
+Even Thomas Aquinas(1225–1274), In it's "Summa Theologica" states that *"it is superfluous to suppose that what can be accounted for by a few principles has been produced by many."*
+
+ Most of the time we imagine that the answers are complicated and difficult. We let our biases dictate how we see a situation and react like in the past; however, it is useful to see the situation in a new light. When we do this, the answer comes to us in a moment of inspiration, we just did not see it before.
 
 ### Correlation and Causation
 
@@ -53,7 +55,9 @@ The shape of the cornea is a result of the balance between external and internal
 
 ### Conclusion
 
->Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. It is obvious that not all people who rub their eyes develop keratoconus, it is an idiopathic process (we don't really know its origin). We have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also nap on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future. If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news. Also, modern advances in technology give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
+>Maybe rubbing your eyes starts the cascade of events that end with you having keratoconus. This theory is supported by the fact that more than 80% of keratoconus patients in the CLEK study (Barr, 2000) reported having rubbed their eyes vigorously. It is obvious that not all people who rub their eyes develop keratoconus, it is an idiopathic process (we don't really know its origin). We have to take responsibility for our condition, and stop blaming a mysterious disease so we can do something about it, and not be victims anymore. I certainly rubbed my eyes when I was young, and I also nap on my belly. By recognizing how we use our eyes, we can avoid detrimental habits that will hurt us in the future.
+
+>If this is true, by stopping rubbing the eyes, we are truly halting the progression of keratoconus, and this is great news. Today, modern advances give us better lenses, diagnostics equipment, and treatments to aid us with this challenge than ever before.
 
 -----------
 
