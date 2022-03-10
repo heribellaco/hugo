@@ -35,7 +35,7 @@ Why rubbing your eyes? We do it when we wake up, before sleeping and when we are
 
 Have you heard the phrase? "The best explanations are the simplest ones." This is commonly called *"The occam razor."* (Wikipedia, 2021) This idea is frequently attributed to English Franciscan friar **William of Ockham** (c. 1287–1347), a scholastic philosopher and theologian.
 
-Even Thomas Aquinas(1225–1274), In it's "Summa Theologica" states that *"it is superfluous to suppose that what can be accounted for by a few principles has been produced by many."*
+Even Thomas Aquinas (1225–1274), In it's "Summa Theologica" states that *"it is superfluous to suppose that what can be accounted for by a few principles has been produced by many."*
 
  Most of the time we imagine that the answers are complicated and difficult. We let our biases dictate how we see a situation and react like in the past; however, it is useful to see the situation in a new light. When we do this, the answer comes to us in a moment of inspiration, we just did not see it before.
 
