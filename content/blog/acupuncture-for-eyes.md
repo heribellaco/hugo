@@ -59,6 +59,8 @@ Denmark : [Boel family](https://boel-akupunktur.com/en/boel-acupuncture/)
 
 USA , NJ : [Andy Rosenfarb](https://acupuncturehealth.net/dr-andy-rosenfarb/)
 
+USA , Bentonville Arkansas : [Lizbeth Ryan](https://macupuncture.com/)
+
 Mexico , Mexico City : [Luo Lijuan](https://www.acupunturachina.com.mx/)
 
 There must be a lot many in mainland China, Japan, and Korea if you are there, but the language is sometimes an obstacle for us.
