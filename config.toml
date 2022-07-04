@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://keratoconusguide.com/"
+baseURL = "https://keratoconusguide.netlify.app/"
 languageCode = "en-us"
 title = "KUG | Keratoconus Blog"
 theme = "liva-hugo"
